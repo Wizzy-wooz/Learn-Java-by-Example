@@ -24,5 +24,6 @@ public class A {
       public static void main(String[] args){
      Boolean b = new Boolean("tr"); 
 System.out.println(b);
+          System.out.println("");
     } 
 }
